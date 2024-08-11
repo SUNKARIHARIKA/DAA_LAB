@@ -9,3 +9,5 @@
 (https://github.com/SUNKARIHARIKA/DAA_LAB/blob/main/Quick_sort.c)
 
 #Assignments
+
+(https://github.com/SUNKARIHARIKA/DAA_LAB/blob/main/WEEK1_1_GN_DAA.c)
