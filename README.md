@@ -13,3 +13,5 @@
 (https://github.com/SUNKARIHARIKA/DAA_LAB/blob/main/WEEK1_1_GN_DAA.c)
 (https://github.com/SUNKARIHARIKA/DAA_LAB/blob/main/WEEK1_2_GN_DAA.c)
 (https://github.com/SUNKARIHARIKA/DAA_LAB/blob/main/WEEK1_3_GN_DAA.c)
+
+(https://github.com/SUNKARIHARIKA/DAA_LAB/blob/main/WEEK1_1_SKM_DAA.c)
